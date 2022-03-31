@@ -139,3 +139,7 @@ border-color:#80a9da;
     display:flex;
     justify-content: space-between;
 }
+body
+{
+ background-color: #008080;   
+}
